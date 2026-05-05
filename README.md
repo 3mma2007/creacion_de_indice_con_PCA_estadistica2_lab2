@@ -5,8 +5,8 @@ Análisis multivariado sobre métricas de monitoreo de infraestructura distribui
 ## ¿Qué se hace?
 
 - Muestra aleatoria de 1500 observaciones del dataset original
-- Clustering, ACP no lineal y análisis factorial para explorar la estructura de los datos
-- Regresión lineal múltiple usando los componentes obtenidos
+- Aplicar PCA (Principal Component Analysis).
+- Crear un indice a partir del PCA.
 
 ## Archivos
 
